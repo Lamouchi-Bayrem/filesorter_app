@@ -1,10 +1,4 @@
-#!/usr/bin/env bash
 
-# ================================================================
-# CV PDF Collector
-# Copies all PDF files containing "cv" (case-insensitive) from
-# Downloads folder to a dedicated CV_PDFs folder
-# ================================================================
 
 set -euo pipefail
 
