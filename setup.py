@@ -1,6 +1,5 @@
 from setuptools import setup, find_packages
 
-
 setup(
     name="filesorter",
     version="0.1.0",
@@ -28,3 +27,4 @@ setup(
     ],
 
 )
+
