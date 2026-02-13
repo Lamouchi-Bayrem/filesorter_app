@@ -23,8 +23,9 @@ setup(
         "Topic :: Utilities",
         "Environment :: X11 Applications",
         "Environment :: Win32 (MS Windows)",
-        "Environment :: MacOS X",
+        "Environment :: MacOS x",
     ],
 
 )
+
 
